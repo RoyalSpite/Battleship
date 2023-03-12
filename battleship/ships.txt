@@ -1,0 +1,8 @@
+Battleship (4 block) x1
+Cruiser (3 block) x2
+Gunboat (2 block) x2
+Fort (1 block) x1
+
+sound effect from 
+https://www.zapsplat.com
+https://freesound.org

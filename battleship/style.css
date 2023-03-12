@@ -1,0 +1,10 @@
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@font-face {
+    font-family: eight_bit;
+    src: url('./src/font/ConnectionIi-2wj8.ttf');
+}
